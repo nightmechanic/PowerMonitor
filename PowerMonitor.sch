@@ -1943,4 +1943,12 @@ F 3 "" H 15250 7250 50  0001 C CNN
 	1    15250 7250
 	1    0    0    -1  
 $EndComp
+Text Notes 6370 1160 0    197  ~ 0
+ISOLATED\n
+Text Notes 14470 4420 0    197  ~ 0
+ISOLATED\n
+Text Notes 2800 1000 0    197  ~ 0
+LIVE\n
+Text Notes 2890 5680 0    197  ~ 0
+LIVE
 $EndSCHEMATC

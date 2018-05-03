@@ -1,4 +1,4 @@
-update=02/05/2018 01:54:24
+update=2018 May 03, Thursday 09:25:44
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,5 +60,16 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=I:/GitHub/nightmechanic_lib/nightmechanic_lib
+LibName34=/Users/rankatz/github/nightmechanic_lib/nightmechanic_lib
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [general]
 version=1
